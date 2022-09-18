@@ -60,7 +60,7 @@ To find the maximum of marks using the list method sort.
 
 To find the maximum marks using the list method max()
 
-![output](./Screenshotfrom2022-09-1812-51-06.png
+![output](./Screenshotfrom2022-09-1812-51-06.png)
 
 To find the maximum marks without using builtin functions.
 
